@@ -418,3 +418,9 @@ FodyWeavers.xsd
 # JetBrains
 .idea
 cmake-build-*
+
+# flatpak build
+builddir
+.flatpak-builder
+repo
+*.flatpak
